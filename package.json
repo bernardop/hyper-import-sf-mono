@@ -1,0 +1,16 @@
+{
+  "name": "hyper-import-sf-mono",
+  "version": "1.0.0",
+  "description": "Import SF Mono from Terminal.app in MacOS Sierra to use in Hyper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bernardop/hyper-import-sf-mono.git"
+  },
+  "author": "Bernardo Pacheco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bernardop/hyper-import-sf-mono/issues"
+  },
+  "homepage": "https://github.com/bernardop/hyper-import-sf-mono#readme"
+}
