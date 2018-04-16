@@ -1,6 +1,6 @@
 {
   "name": "hyper-import-sf-mono",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Import SF Mono from Terminal.app in macOS Sierra to use in Hyper",
   "main": "index.js",
   "repository": {
